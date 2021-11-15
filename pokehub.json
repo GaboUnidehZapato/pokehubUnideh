@@ -81,7 +81,7 @@
     "spawn_chance": 0.017,
     "avg_spawns": 1.7,
     "spawn_time": "11:30",
-    "multipliers": [0],
+    "multipliers": null,
     "weaknesses": [
       "Fire",
       "Ice",
@@ -307,37 +307,6 @@
     "next_evolution": [{
       "num": "011",
       "name": "Metapod"
-    }, {
-      "num": "012",
-      "name": "Butterfree"
-    }]
-  }]
-},
-{
-    "id": 11,
-    "num": "011",
-    "name": "Metapod",
-    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
-    "type": [
-      "Bug"
-    ],
-    "height": "0.7 m",
-    "weight": "9.9 kg",
-    "candy": "Metapod Candy",
-    "candy_count": 5,
-    "egg": "Not in Eggs",
-    "spawn_chance": 3.032,
-    "avg_spawns": 303.2,
-    "spawn_time": "16:35",
-    "multipliers": [1.05],
-    "weaknesses": [
-      "Fire",
-      "Flying",
-      "Rock"
-    ],
-    "next_evolution": [{
-      "num": "012",
-      "name": "Butterfree"
     }, {
       "num": "012",
       "name": "Butterfree"
