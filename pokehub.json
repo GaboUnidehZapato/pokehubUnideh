@@ -312,33 +312,254 @@
       "name": "Butterfree"
     }]
   },  {
-    "id": 8,
-    "num": "008",
-    "name": "Wartortle",
-    "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+    "id": 11,
+    "num": "011",
+    "name": "Metapod",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
     "type": [
-      "Water"
+      "Bug"
     ],
-    "height": "0.99 m",
-    "weight": "22.5 kg",
-    "candy": "Squirtle Candy",
-    "candy_count": 100,
+    "height": "0.70 m",
+    "weight": "9,9 kg",
+    "candy": "Metapod Candy",
+    "candy_count": 15,
     "egg": "Not in Eggs",
     "spawn_chance": 0.034,
     "avg_spawns": 3.4,
     "spawn_time": "07:02",
     "multipliers": [1.4],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Fire",
+      "Flying",
+      "Rock"
     ],
     "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
+      "num": "010",
+      "name": "Caterpie"
     }],
     "next_evolution": [{
-      "num": "009",
-      "name": "Blastoise"
+      "num": "012",
+      "name": "Butterfree"
     }]
+  },{
+    "id": 12,
+    "num": "012",
+    "name": "Butterfree",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1,1 m",
+    "weight": "32,0 kg",
+    "candy": "Butterfree Candy",
+    "candy_count": 80,
+    "egg": "Cocoon",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock",
+      "Ice",
+      "Electrity"
+    ],
+    "prev_evolution": [{
+      "num": "011",
+      "name": "Metapod"
+    }],
+    "next_evolution": [{
+      "num": "012",
+      "name": "This is the final evolution"
+    }]
+    },{
+    "id": 13,
+    "num": "013",
+    "name": "Weedle",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0,3 m",
+    "weight": "3,2 kg",
+    "candy": "Weedle Candy",
+    "candy_count": 10,
+    "egg": "Cocoon",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "This is the first evolution"
+    }],
+    "next_evolution": [{
+      "num": "014",
+      "name": "Kakuna"
+    }]
+  },{
+    "id": 14,
+    "num": "014",
+    "name": "Kakuna",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0,6 m",
+    "weight": "10,0 kg",
+    "candy": "Kakuna Candy",
+    "candy_count": 20,
+    "egg": "Cocoon",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "013",
+      "name": "Weedle"
+    }],
+    "next_evolution": [{
+      "num": "015",
+      "name": "Beedrill"
+    }]
+   },{
+    "id": 15,
+    "num": "015",
+    "name": "Beedrill",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "1,0 m",
+    "weight": "29,5 kg",
+    "candy": "Beedrill Candy",
+    "candy_count": 50,
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Fire",
+      "Psychic",
+      "Flying",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "014",
+      "name": "Kakuna"
+    }],
+    "next_evolution": [{
+      "num": "015",
+      "name": "This the final evolution"
+    }]
+  },{
+    "id": 16,
+    "num": "016",
+    "name": "Pidgey",
+    "img": "https://www.pokemon.com/el/pokedex/pidgey",
+    "type": [
+      "Birdy"
+    ],
+    "height": "0,3 m",
+    "weight": "1,8 kg",
+    "candy": "Pidgey Candy",
+    "candy_count": 30,
+    "egg": "Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Electricity",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "This is the first"
+    }],
+    "next_evolution": [{
+      "num": "017",
+      "name": "Pidgeotto"
+    }]
+     },{
+    "id": 17,
+    "num": "017",
+    "name": "Pidgeotto",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+    "type": [
+      "Bird"
+    ],
+    "height": "1,1 m",
+    "weight": "30 kg",
+    "candy": "Pidgeotto Candy",
+    "candy_count": 60,
+    "egg": "Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Electricity",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "016",
+      "name": "Pidgey"
+    }],
+    "next_evolution": [{
+      "num": "018",
+      "name": "Pidgeot"
+    }]
+     },{
+    "id": 18,
+    "num": "018",
+    "name": "Pidgeot",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+    "type": [
+      "Bird"
+    ],
+    "height": "1,5 m",
+    "weight": "39,5 kg",
+    "candy": "Pidgeot Candy",
+    "candy_count": 90,
+    "egg": "Eggs",
+    "spawn_chance": 0.034,
+    "avg_spawns": 3.4,
+    "spawn_time": "07:02",
+    "multipliers": [1.4],
+    "weaknesses": [
+      "Electricity",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "017",
+      "name": "Pidgeotto"
+    }],
+    "next_evolution": [{
+      "num": "018",
+      "name": "This is the final evolution"
+    }]
+    
   }]
 }
